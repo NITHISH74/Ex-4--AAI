@@ -5,7 +5,7 @@
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## AIM: 
-Construct a Python code to find the sequence of hidden states by the known sequence of observances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad.
+To Construct a Python code to find the sequence of hidden states by the known sequence of observances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad.
 
 ## ALGORITHM:
 ### STEP 1:
