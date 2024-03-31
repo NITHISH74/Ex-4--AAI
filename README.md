@@ -1,7 +1,7 @@
-<H3>NAME:NITHISHWAR S</H3>
-<H3>REGISTER NO:212221230071</H3>
-<H3>EX.NO:4</H3>
-<H3>DATE:16/03/24</H3>
+<H3>NAME: NITHISHWAR S</H3>
+<H3>REGISTER NO: 212221230071</H3>
+<H3>EX.NO: 4</H3>
+<H3>DATE: 16/03/24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## AIM: 
@@ -58,8 +58,9 @@ print("The most likely sequence of weather state is:", most_likely_sequence)
 ```
 
 ## OUTPUT:
-![output](op1.png)
-![output](op2.png)
+![image](https://github.com/NITHISH74/Ex-4--AAI/assets/94164665/167cacd4-7d4b-42fd-be0c-d5050942a952)
+![image](https://github.com/NITHISH74/Ex-4--AAI/assets/94164665/d4439560-714d-48cc-889a-8942e59e3604)
+
 
 ## RESULT:
 Thus Hidden Markov Model is implemented using python.
